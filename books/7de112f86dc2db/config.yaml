@@ -1,0 +1,9 @@
+title: "はじめてでもできる! Next.js & Markdown ブログ"
+summary: "この本では、初めてNext.jsを使う人でも作れる高機能なMarkdownブログを作成します。"
+topics: ["typescript", "nextjs", "react", markdown]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - syntaxhighlight
