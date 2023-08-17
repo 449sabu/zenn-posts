@@ -1,9 +1,12 @@
-title: ""
-summary: ""
-topics: []
+title: "Next.jsとTypeScriptで作る初めてのPWA"
+summary: "React のフレームワークである Next.js と TypeScript を使用して、基礎的なPWAを作成します。UIフレームワークである 「Mantine UI」、状態管理ライブラリである「Zustand」の基礎を学ぶことができます。"
+topics: ["nextjs", "typescript", "pwa"]
 published: false
-price: 0 # 有料の場合200〜5000
+price: 500 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
+toc_depth: 3
 chapters:
-  - example1
-  - example2
+  - 1.intro
+  - 2.about
+  - 3.setup
+  - 4.pwa
