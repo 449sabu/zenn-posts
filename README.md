@@ -28,6 +28,3 @@ image: "https://"
 description: ""
 ---
 ```
-
-## Topics
-- next Nex.js 
